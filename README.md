@@ -2,9 +2,6 @@
 # Weapon Recoil & Fire Rate Selection
 Realistic FiveM Weapon Recoil and Fire Rate Selection UI
 
-# Showcase Video:
-https://www.youtube.com/watch?v=GuHbcV-_RvI
-
 # Features:
 - UI show based on if the Weapon is Semi and Fully automatic
 - Press left ALT to click the UI buttons
